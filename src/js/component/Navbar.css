@@ -1,0 +1,9 @@
+.Nav {
+    display: flex;
+    color: grey;
+}
+
+.links {
+    align-items: end;
+    padding: 12rem;
+}
